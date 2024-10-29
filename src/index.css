@@ -1,0 +1,18 @@
+*{
+  margin: 7px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+#root{
+  height: 100vh;
+}
+
+button{
+  padding: 5px 10px;
+  border-radius: 15px;
+  cursor: pointer;
+}
